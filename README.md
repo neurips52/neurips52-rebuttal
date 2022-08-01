@@ -1,4 +1,4 @@
-# neurips52-rebuttal
+# Figures
 
 Run-time analysis:
 
